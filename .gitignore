@@ -1,0 +1,8 @@
+/ExpressionTest/Properties/*.cs
+/ExpressionTest/bin/Debug/*.exe
+/ExpressionTest/bin/Debug/*.pdb
+/ExpressionTest/bin/Debug/*.manifest
+/ExpressionTest/obj/Debug/*.cache
+/ExpressionTest/obj/Debug/*.txt
+/ExpressionTest/obj/Debug/*.exe
+/ExpressionTest/obj/Debug/*.pdb
